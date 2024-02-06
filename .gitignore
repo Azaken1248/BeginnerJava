@@ -1,0 +1,5 @@
+# Ignore Java class files
+*.class
+
+# Ignore temporary code runner files
+tempCodeRunnerFile.*
